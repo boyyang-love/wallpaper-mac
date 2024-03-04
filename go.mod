@@ -1,4 +1,4 @@
-module wallpaper-mac
+module github.com/boyyang-love/wallpaper-mac
 
 go 1.21
 
