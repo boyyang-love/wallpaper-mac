@@ -16,14 +16,14 @@ package main
 
 import (
   "fmt"
-  "wallpaper-mac/wallpaper"
+  "github.com/boyyang-love/wallpaper-mac/wallpaper"
 )
 
 func main() {
   w := wallpaper.NewWallpaper()
 
   // 设置壁纸
-  err := w.SetWallpaper("/Users/boyyang/Downloads/anime-anime-girls-Hatsune-Miku-Vocaloid-blue-eyes-blue-hair-2185805-wallhere.com.jpg")
+  err := w.SetWallpaper("/Users/boyyang/Downloads/test.jpg")
   if err != nil {
     return
   }
