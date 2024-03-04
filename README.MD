@@ -7,7 +7,7 @@
 
 #### 安装
 ```yarn
-go get -u github.com/
+go get -u github.com/boyyang-love/wallpaper-mac
 ```
 
 #### 使用
